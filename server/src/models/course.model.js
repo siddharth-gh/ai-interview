@@ -25,6 +25,7 @@ const courseSchema = new mongoose.Schema(
                 ref: "Module",
             },
         ],
+        lectures: []
     },
     {
         timestamps: true,
