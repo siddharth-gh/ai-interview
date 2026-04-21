@@ -1,1 +1,0 @@
-console.log("placeholder for gemini api")
